@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
     private:
     void vis(int k,vector<vector<int>>& adj,vector<int>& isvis){

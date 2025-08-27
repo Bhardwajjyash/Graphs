@@ -1,5 +1,6 @@
 // User function Template for C++
-
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
     private:
     void bfs(int row , int col , vector<vector<int>>& grid , vector<vector<int>>& vis,vector<pair<int,int>>& shape, int baseRow, int baseCol){
